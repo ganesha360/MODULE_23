@@ -15,9 +15,9 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 
 4. Return: The minimum cost to reach the destination.
 ## Program:
-Developed by:Kishore S
+Developed by: GANESH R
 
-Register Number:  212222240050
+Register Number:  212222240029
 
 ```python
 R = int(input())
