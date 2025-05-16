@@ -22,9 +22,9 @@ To write a python program to find the maximum contiguous subarray.
    b.If current_max < 0, reset current_max to 0.
 
 ## Program:
+Developed by: GANESH R
 
-Developed by: Kishore S
-Register Number:  212222240050
+Register Number:  212222240029
 ```python
 def maxSubArraySum(a,size):
     max_till_now = a[0]
